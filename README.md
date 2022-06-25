@@ -2,4 +2,4 @@
 This is my test repository.
 updated again.
 
-some chages
+some
